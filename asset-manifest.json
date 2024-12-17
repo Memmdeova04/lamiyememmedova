@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lamiyememmedova/static/css/main.a1f352e4.css",
+    "main.js": "/lamiyememmedova/static/js/main.4ea9d99b.js",
+    "index.html": "/lamiyememmedova/index.html",
+    "main.a1f352e4.css.map": "/lamiyememmedova/static/css/main.a1f352e4.css.map",
+    "main.4ea9d99b.js.map": "/lamiyememmedova/static/js/main.4ea9d99b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1f352e4.css",
+    "static/js/main.4ea9d99b.js"
+  ]
+}
